@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <rootUrl>http://apis.baidu.com</rootUrl>
+    <rootUrl>https://jisuhuilv.market.alicloudapi.com/</rootUrl>
     <headers>
         <!-- 配置为自己的参数 -->
-        <header name="apikey" value="123456"></header>
+        <header name="Content-Type" value="application/json;charset=UTF-8"></header>
+        <header name="Authorization" value="APPCODE c4ed648e6a1f45a7838b8d1be6b3d1d3"></header>
     </headers>
     <params>
-    	<param name="test" value="value"></param>
     </params>
     <project_name>接口自动化测试报告demo</project_name>
 </root>

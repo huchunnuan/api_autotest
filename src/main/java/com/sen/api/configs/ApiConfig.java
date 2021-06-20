@@ -57,7 +57,5 @@ public class ApiConfig {
 	public Map<String, String> getHeaders() {
 		return headers;
 	}
-	
-	
 }
 
